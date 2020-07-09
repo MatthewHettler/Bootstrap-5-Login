@@ -1,0 +1,24 @@
+{
+  "name": "Bootstrap-5-Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewHettler/Bootstrap-5-Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewHettler/Bootstrap-5-Login/issues"
+  },
+  "homepage": "https://github.com/MatthewHettler/Bootstrap-5-Login#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha5"
+  }
+}
